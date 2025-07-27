@@ -158,5 +158,4 @@ const startServer = async () => {
 };
 
 // Start the server
-startServer(); 
-console.log('hello world')
+startServer();
